@@ -15,3 +15,9 @@ git pull origin rama
 
 \*\*Moverse a rama anterior
 git switch -
+
+**Copiar codigo en memoria
+git stash
+
+**soltar codigo en memoria
+git stash pop
